@@ -1,2 +1,7 @@
-# ModernJS_DeepDive_Docs
-docs
+# Modern JavaScript Deep Dive 
+
+JS가 친절한 언어로써 코딩이 쉬울 뿐이지 완벽히 이해하고 작성하는 코드가 아니다라는 생각에서 쓰는 독후감
+
+- JavaScript를 더욱 깊이 이해해보자
+- 사상누각을 방지하자!!! -> 막내돼지가 되어 벽돌집을 지어보자!!!
+ 
