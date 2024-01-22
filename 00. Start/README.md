@@ -7,9 +7,10 @@
 <hr style="color:red;"/>
 
 ## 구문과 의미
-
-    Const number = "String";
-    console.log(number * number);
+```JavaScript
+Const number = "String";
+console.log(number * number);
+```
 
 위 예제는 문법상 아무 문제가 없다. 하지만 의미적으로는 맞지 않다.
 정확한 커뮤니케이션(프로그래밍)을 위해서는 프로그래밍언어 문법에 부합하는 것은 물론이고 요구사항을 정확히 수행하는 것이 존재해야 의미가 있다.
