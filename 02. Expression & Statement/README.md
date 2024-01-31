@@ -112,7 +112,7 @@ function foo () {
   -> 빈객체 리턴 return {};
 - ASI의 동작 결과
   -> return; {};
-
+ 
 
 
 
